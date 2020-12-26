@@ -1,0 +1,23 @@
+[
+  {
+    "items": [
+      {
+        "userId": "ac3d7258",
+        "quantity": 2
+      },
+      {
+        "userId": "62b582ba",
+        "quantity": 2
+      },
+      {
+        "userId": "undefined",
+        "quantity": 1
+      }
+    ],
+    "userId": "cc33dcb2"
+  },
+  {
+    "items": [],
+    "userId": "69b1da67"
+  }
+]
